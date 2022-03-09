@@ -1,4 +1,4 @@
-const heading = document.getElementById("placeholder")
+const placeholder = document.getElementById("placeholder")
 const input = document.getElementById("input")
 const submit = document.getElementById("submit")
 // const list = document.querySelectorAll("li");
